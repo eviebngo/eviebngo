@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**eviebngo/eviebngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I’m a third-year student at UC Irvine, double majoring in Computer Science and Business Information Management. My interests lie at the intersection of business and technology, with a focus on technical product management.
 
 This GitHub serves as a space to document my growth in software development and explore projects that combine creativity with technical problem-solving.
