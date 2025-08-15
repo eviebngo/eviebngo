@@ -5,6 +5,7 @@ I’m a third-year student at UC Irvine, double majoring in Computer Science and
 This GitHub serves as a space to document my growth in software development and explore projects that combine creativity with technical problem-solving. 📌
 
 Technical Skills:
+
 Python • Java • C++ • Dart • Swift • SwiftUI • JavaScript • HTML • CSS • React Native • React • MIPS • SQL • Tomcat • Flask • AWS
 
 Contact Me:
